@@ -1,0 +1,5 @@
+sklearn
+opencv-python
+mxnet
+mxnet-mkl
+easydict
